@@ -1,3 +1,5 @@
+<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/1cb46ef8-8ae2-45e9-96d9-c4098a5695a8" />
+
 # Spotify app Clone Project 🚀
 
 A modern, responsive, and visually appealing web application clone built using **HTML5**, **CSS3**, and **Bootstrap 5**, integrated with custom typography and rich icons.
